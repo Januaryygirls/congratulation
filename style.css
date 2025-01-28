@@ -1,0 +1,26 @@
+.italic {
+    font-style: italic;
+  }
+
+  .center-container {
+    text-align: center;
+  }
+  iframe {
+    width: 400px;
+    height: 400px;
+    border: 1px solid #ccc;
+  }
+
+  .fahkwang-regular {
+    font-family: "Fahkwang", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .coming-soon-regular {
+    font-family: "Coming Soon", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
